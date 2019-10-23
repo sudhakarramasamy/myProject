@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testNGDemos.ClearTripBookingsDataProvider">
+        <methods>
+          <include name="emailAddress"/>
+          <include name="excel"/>
+          <include name="selectTo"/>
+          <include name="adult1Details"/>
+          <include name="paymentPage"/>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="selectFrom"/>
+          <include name="iteneryCheck"/>
+          <include name="mobileNumber"/>
+          <include name="infant1Details"/>
+          <include name="seleccheapestFlight"/>
+          <include name="selectDate"/>
+          <include name="child1Details"/>
+        </methods>
+      </class> <!-- testNGDemos.ClearTripBookingsDataProvider -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

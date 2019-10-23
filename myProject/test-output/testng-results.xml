@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41410" started-at="2019-10-22T08:37:54Z" finished-at="2019-10-22T08:38:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41410" started-at="2019-10-22T08:37:54Z" finished-at="2019-10-22T08:38:35Z">
+      <class name="testNGDemos.ClearTripBookingsDataProvider">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="openBrowser" is-config="true" duration-ms="19087" started-at="2019-10-22T08:37:34Z" finished-at="2019-10-22T08:37:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="excel()[pri:0, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="excel" is-config="true" duration-ms="567" started-at="2019-10-22T08:37:54Z" finished-at="2019-10-22T08:37:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel -->
+        <test-method status="PASS" signature="selectFrom()[pri:0, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="selectFrom" duration-ms="909" started-at="2019-10-22T08:37:54Z" finished-at="2019-10-22T08:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFrom -->
+        <test-method status="PASS" signature="selectTo()[pri:1, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="selectTo" duration-ms="884" started-at="2019-10-22T08:37:55Z" finished-at="2019-10-22T08:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTo -->
+        <test-method status="PASS" signature="selectDate()[pri:2, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="selectDate" duration-ms="257" started-at="2019-10-22T08:37:56Z" finished-at="2019-10-22T08:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDate -->
+        <test-method status="PASS" signature="adultSelect()[pri:3, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="adultSelect" duration-ms="56" started-at="2019-10-22T08:37:56Z" finished-at="2019-10-22T08:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adultSelect -->
+        <test-method status="PASS" signature="childSelect()[pri:4, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="childSelect" duration-ms="94" started-at="2019-10-22T08:37:56Z" finished-at="2019-10-22T08:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- childSelect -->
+        <test-method status="PASS" signature="infantSelect()[pri:5, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="infantSelect" duration-ms="81" started-at="2019-10-22T08:37:56Z" finished-at="2019-10-22T08:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- infantSelect -->
+        <test-method status="PASS" signature="searchSelect()[pri:6, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="searchSelect" duration-ms="162" started-at="2019-10-22T08:37:56Z" finished-at="2019-10-22T08:37:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchSelect -->
+        <test-method status="PASS" signature="seleccheapestFlight()[pri:7, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="seleccheapestFlight" duration-ms="10224" started-at="2019-10-22T08:37:57Z" finished-at="2019-10-22T08:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleccheapestFlight -->
+        <test-method status="PASS" signature="iteneryCheck()[pri:8, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="iteneryCheck" duration-ms="1525" started-at="2019-10-22T08:38:07Z" finished-at="2019-10-22T08:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iteneryCheck -->
+        <test-method status="PASS" signature="emailAddress()[pri:9, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="emailAddress" duration-ms="1129" started-at="2019-10-22T08:38:08Z" finished-at="2019-10-22T08:38:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailAddress -->
+        <test-method status="PASS" signature="adult1Details()[pri:10, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="adult1Details" duration-ms="7757" started-at="2019-10-22T08:38:09Z" finished-at="2019-10-22T08:38:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adult1Details -->
+        <test-method status="PASS" signature="child1Details()[pri:11, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="child1Details" duration-ms="2419" started-at="2019-10-22T08:38:17Z" finished-at="2019-10-22T08:38:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- child1Details -->
+        <test-method status="PASS" signature="infant1Details()[pri:12, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="infant1Details" duration-ms="3423" started-at="2019-10-22T08:38:20Z" finished-at="2019-10-22T08:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- infant1Details -->
+        <test-method status="PASS" signature="mobileNumber()[pri:13, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="mobileNumber" duration-ms="360" started-at="2019-10-22T08:38:23Z" finished-at="2019-10-22T08:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileNumber -->
+        <test-method status="PASS" signature="paymentPage()[pri:14, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="paymentPage" duration-ms="11524" started-at="2019-10-22T08:38:23Z" finished-at="2019-10-22T08:38:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testNGDemos.ClearTripBookingsDataProvider@4501b7af]" name="closeBrowser" is-config="true" duration-ms="2101" started-at="2019-10-22T08:38:35Z" finished-at="2019-10-22T08:38:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testNGDemos.ClearTripBookingsDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
